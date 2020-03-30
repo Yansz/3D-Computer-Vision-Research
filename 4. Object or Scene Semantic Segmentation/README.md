@@ -3,9 +3,13 @@
 
 > Recovering the 3D representation of an object from single-view or multi-view RGB images by deep neural networks has attracted increasing attention in the past few years. 
 
-![](/3D-Computer-Vision-Research/images/4_seg.png)
+![](/3D-Computer-Vision-Research/images/4_seg2.png)
+
+<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/4_seg2.png" /></p>
 
 ![](/3D-Computer-Vision-Research/images/4_seg2.png)
+
+<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/4_seg2.png" /></p>
 
 ## 2019
 

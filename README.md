@@ -3,15 +3,9 @@ Computer vision tasks based on 3D data will develop rapidly in the foreseeable t
 
 We collect some data sets and research papers about 3D computer vision, and If lucky, there will be open source related implemented repositories. Divided according to the needs of different tasks. It is expected to be supplemented by all interested in 3D computer vision research.
 
+<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/main1.jpg" /></p>
 
-
-![](/3D-Computer-Vision-Research/images/main1.jpg)
-
-
-
-![](/3D-Computer-Vision-Research/images/pointcloud1.jpg)
-
-
+<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/pointcloud1.jpg" /></p>
 
 **Note:** 
 
@@ -19,7 +13,7 @@ We collect some data sets and research papers about 3D computer vision, and If l
   My idea is to summarize the influential and innovative papers that have appeared in the field of 3D vision and extract their research tasks. For a framework that involves multiple research tasks, I will put an introduction in each related folder.
 * Another way to quickly find the data sets we need is to follow the popular research papers in our research direction. We will learn which data sets are recommended for our similar tasks.
 
-***Let's get the ball rolling ! ​*:goal_net:**
+**Let's get the ball rolling ! ​**
 
 **References:**
 

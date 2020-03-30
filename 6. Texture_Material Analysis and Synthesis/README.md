@@ -5,9 +5,7 @@
 
 1. **Texture Synthesis Using Convolutional Neural Networks (2015)** [[Paper\]](https://arxiv.org/pdf/1505.07376.pdf)
 
-[![img](https://github.com/timzhang642/3D-Machine-Learning/raw/master/imgs/Texture%20Synthesis%20Using%20Convolutional%20Neural%20Networks.jpeg)](https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Texture Synthesis Using Convolutional Neural Networks.jpeg)
-
-
+<p align="center"><img width="80%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Texture Synthesis Using Convolutional Neural Networks.jpeg"/></p>
 
 2. **Two-Shot SVBRDF Capture for Stationary Materials (SIGGRAPH 2015)** [[Paper\]](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)
 
@@ -37,7 +35,9 @@
 
 7. **Joint Material and Illumination Estimation from Photo Sets in the Wild (2017)** [[Paper\]](https://arxiv.org/pdf/1710.08313.pdf)
 
-[![img](https://github.com/timzhang642/3D-Machine-Learning/raw/master/imgs/Joint%20Material%20and%20Illumination%20Estimation%20from%20Photo%20Sets%20in%20the%20Wild.jpeg)](https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Joint Material and Illumination Estimation from Photo Sets in the Wild.jpeg)
+<p align="center"><img  src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Joint Material and Illumination Estimation from Photo Sets in the Wild.jpeg" /></p>
+
+
 
 8. **JWhat Is Around The Camera? (2017)** [[Paper\]](https://arxiv.org/pdf/1611.09325v2.pdf)
 
@@ -71,9 +71,7 @@
 
 13. **LIME: Live Intrinsic Material Estimation (2018 CVPR)** [[Paper\]](https://gvv.mpi-inf.mpg.de/projects/LIME/)
 
-![](/3D-Computer-Vision-Research/images/material.png)
-
-
+<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/material.png" /></p>
 
 14. **Single-Image SVBRDF Capture with a Rendering-Aware Deep Network (2018)** [[Paper\]](https://team.inria.fr/graphdeco/fr/projects/deep-materials/)
 
@@ -87,7 +85,7 @@
 
 15. **Learning Material-Aware Local Descriptors for 3D Shapes (2018)** [[Paper\]](http://www.vovakim.com/papers/18_3DV_ShapeMatFeat.pdf)
 
-[![img](https://github.com/timzhang642/3D-Machine-Learning/raw/master/imgs/Learning%20Material-Aware%20Local%20Descriptors%20for%203D%20Shapes%20(2018).jpeg)](https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning Material-Aware Local Descriptors for 3D Shapes (2018).jpeg)
+<p align="center"><img src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning Material-Aware Local Descriptors for 3D Shapes (2018).jpeg" /></p>
 
 
 
