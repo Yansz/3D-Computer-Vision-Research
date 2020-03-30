@@ -13,7 +13,7 @@
 
    Point cloud is an important type of geometric data structure. Due to its irregular format, most researchers transform such data to regular 3D voxel grids or collections of images. This, however, renders data unnecessarily voluminous and causes issues. In this paper, we design a novel type of neural network that directly consumes point clouds and well respects the permutation invariance of points in the input. PointNet provides a unified architecture for applications ranging from object classification, part segmentation, to scene semantic parsing. Though simple, PointNet is highly efficient and effective. Empirically, it shows strong performance on par or even better than state of the art. Theoretically, they provide analysis towards understanding of what the network has learnt and why the network is robust with respect to input perturbation and corruption.
 
-   ![](/3D-Computer-Vision-Research/images/pointnet.png)
+   <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/pointnet.png" /></p>
 
    **[Code]: [TensorFlow](https://github.com/charlesq34/pointnet),   [PyTorch](https://github.com/fxia22/pointnet.pytorch)**  
 
@@ -23,7 +23,9 @@
 
    The author proposes OctNet, a representation for deep learning with sparse 3D data. In contrast to existing models, representation enables 3D convolutional networks which are both deep and high resolution. Towards this goal, they exploit the sparsity in the input data to hierarchically partition the space using a set of unbalanced octrees where each leaf node stores a pooled feature representation. This allows to focus memory allocation and computation to the relevant dense regions and enables deeper networks without compromising resolution. They demonstrate the utility of the OctNet representation by analyzing the impact of resolution on several 3D tasks including 3D object classification, orientation estimation and point cloud labeling.
 
-   ![](/3D-Computer-Vision-Research/images/octree.png)
+   <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/octree.png" /></p>
+
+   
 
    **[Code]:  [PyTorch](https://github.com/griegler/octnet)** 
 
