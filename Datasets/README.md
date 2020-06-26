@@ -3,19 +3,16 @@
 
 1. **[ASL Datasets Repository(ETH)](https://projects.asl.ethz.ch/datasets/doku.php?id=home)  (2012).  [`cls.` `match.` `reg.` `det`]**
 
-   This group of datasets was recorded with the aim to test point cloud registration algorithms in specific environments and conditions. Special care is taken regarding the precision of the "ground truth" positions of the scanner, which is in the millimeter range, using a theodolite. Some examples of the recorded environments can be seen bellow.
+   This group of datasets was recorded with the aim to test point cloud registration algorithms in specific environments and conditions. Special care is taken regarding the precision of the "ground truth" positions of the scanner, which is in the millimeter range, using a theodolite. Some examples of the recorded environments can be seen bellow.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/asldataset_weblarge.jpg" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/asldataset_weblarge.jpg" /></p>
-2. **[SYDNEY URBAN OBJECTS DATASET](http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml)  (2013). ** [__`Cls.`__ __`Match.`__]
+2. **[SYDNEY URBAN OBJECTS DATASET](http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml)  (2013).  [__`Cls.`__ __`Match.`__]**
 
-   This dataset contains a variety of common urban road objects scanned with a Velodyne HDL-64E LIDAR, collected in the CBD of Sydney, Australia. There are 631 individual scans of objects across classes of vehicles, pedestrians, signs and trees. 
+   This dataset contains a variety of common urban road objects scanned with a Velodyne HDL-64E LIDAR, collected in the CBD of Sydney, Australia. There are 631 individual scans of objects across classes of vehicles, pedestrians, signs and trees. <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/arranged.png" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/arranged.png" /></p>
 3. **[PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)  (2014).  [__`Pos.`__ __`Det.`__]**
 
-   Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild. 12 categories, on average 3k+ objects per category, for 3D object detection and pose estimation.
+   Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild. 12 categories, on average 3k+ objects per category, for 3D object detection and pose estimation.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/cads.png" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/cads.png" /></p>
 4. **[ModelNet](http://modelnet.cs.princeton.edu/)  (2015).  [`Cls.`]**
 
    The Princeton ModelNet , including 127915 3D CAD models from 662 categories 
@@ -24,6 +21,7 @@
 * ModelNet40: 12311 models from 40 categories, all are uniformly orientate
 
 <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/modelnet.jpg" /></p>
+
 5. **[ShapeNet](https://www.shapenet.org/)  (2015).   [`Seg.`]**
 
    Including 3Million+ models and 4K+ categories. A collaborative dataset between researchers at Princeton, Stanford and TTIC.
@@ -31,35 +29,30 @@
 * [PartNet](https://shapenet.org/download/parts) The PartNet dataset provides fine grained part annotation of objects in ShapeNetCore.
 
 <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/shapenet.jpg" /></p>
+
 6. **[Semantic3D](http://www.semantic3d.net/)  (2016).  [`Cls.` `Seg.`]**
 
    They have created a framework for the fair evaluation of semantic classification in 3D space. In this framework we provide:
 
 * A large set of point clouds with over **four billion** of labelled points. It covers a range of diverse urban scenes: churches, streets, railroad tracks, squares, villages, soccer fields, castles to name just a few.
 * Ground truth, hand-labelled by professional assessors. 
-* A common evaluation tool providing the established intersection-union measure along with the full confusion matrix.
+* A common evaluation tool providing the established intersection-union measure along with the full confusion matrix.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/sg.jpg" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/sg.jpg" /></p>
 7. **[3D MNIST](https://www.kaggle.com/daavoo/3d-mnist)  (2017).  [`Cls.`]**
 
-   The aim of this dataset is to provide a simple way to get started with 3D computer vision problems such as 3D shape recognition. 
+   The aim of this dataset is to provide a simple way to get started with 3D computer vision problems such as 3D shape recognition.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/dataset-original.png" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/dataset-original.png" /></p>
 8. **[SceneNN](http://www.scenenn.net/)   (2016).  [`Cls.` `Seg.`]**
 
-   RGB-D scene meshes dataset consisting of more than 100 indoor scenes, captured at various places, e.g., offices, dormitory, classrooms, pantry, etc. All scenes are reconstructed into triangle meshes and have per-vertex and per-pixel annotation. 
+   RGB-D scene meshes dataset consisting of more than 100 indoor scenes, captured at various places, e.g., offices, dormitory, classrooms, pantry, etc. All scenes are reconstructed into triangle meshes and have per-vertex and per-pixel annotation.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/segmented.png" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/segmented.png" /></p>
 9. **[S3DIS](http://buildingparser.stanford.edu/dataset.html#Download)   (2017).  [ `Seg.`]**
 
-   The Stanford Large-Scale 3D Indoor Spaces Dataset. The dataset is collected in 6 large-scale indoor areas that originate from 3 different buildings of mainly educational and office use. It contains colored point clouds and textured meshes for each scanned area. 3D semantic annotations for objects and scenes are offered for both modalities, with point-level and face-level labels correspondingly. 
-
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/S3DIS.png" /></p>
+   The Stanford Large-Scale 3D Indoor Spaces Dataset. The dataset is collected in 6 large-scale indoor areas that originate from 3 different buildings of mainly educational and office use. It contains colored point clouds and textured meshes for each scanned area. 3D semantic annotations for objects and scenes are offered for both modalities, with point-level and face-level labels correspondingly.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/S3DIS.png" /></p>
+   
 10. **[ScanNet](http://www.scan-net.org/)  (2017).  [__`Cls.`__ __`Seg.`__]**
 
-    Richly-annotated 3D Reconstructions of Indoor Scenes. An RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
-
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/scannet_benchmark.jpg" /></p>
+    Richly-annotated 3D Reconstructions of Indoor Scenes. An RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/scannet_benchmark.jpg" /></p>
 
 11. **[NPM3D](http://npm3d.fr/paris-lille-3d)  (2017) .  [__`Cls.`__ __`Seg.`__]**
 
@@ -146,30 +139,24 @@
     The nuScenes dataset is a large-scale autonomous driving dataset. 
 
 <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/NUtasks.png" /></p>
+
 23. **[3D60](https://vcl3d.github.io/3D60/)  (2019).  [`Ren. `]**
 
-    A collective dataset generated in the context of various 360o vision research works. It comprises **multi-modal stereo renders of scenes** from realistic and synthetic large-scale 3D datasets (Matterport3D , Stanford2D3D, SunCG).
-
-    <p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/Modalities.png" /></p>
+    A collective dataset generated in the context of various 360o vision research works. It comprises **multi-modal stereo renders of scenes** from realistic and synthetic large-scale 3D datasets (Matterport3D , Stanford2D3D, SunCG).<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/Modalities.png" /></p>
 
 24. **[Waymo Open Dataset](https://waymo.com/open/) (2020). [`Det.`  `Aut.`]**
 
-    The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. It currently contains 1,950 segments. 
+    The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. It currently contains 1,950 segments.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/waymo.gif" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/waymo.gif" /></p>
 25. **[PreSIL](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous)  (2020).  [`Det.` `Aut.`]** 
 
-    The Precise Synthetic Image and LiDAR (PreSIL) dataset for autonomous vehicle perception.Depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for all vehicles and people. 
+    The Precise Synthetic Image and LiDAR (PreSIL) dataset for autonomous vehicle perception.Depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for all vehicles and people.<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/PRESIL2.png" /></p>
 
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/PRESIL2.png" /></p>
 26. **[Lyft Prediction Dataset](https://self-driving.lyft.com/level5/prediction/)(2020). [`Det.` `Aut.`]**  
 
     The dataset consists of 170,000 scenes capturing the environment around the autonomous vehicle. 	Each scene encodes the state of the vehicle’s surroundings at a given point in time.
 
-    **The dataset includes:**1000+hours of traffic agent movement.16K miles of data from 23 vehicles.15K semantic map annotations.
-
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/motion_dataset_lrg_redux.gif" /></p>
-<p align="center"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/motion_dataset_2-1.png" /></p>
+    **The dataset includes:** 1000+hours of traffic agent movement.16K miles of data from 23 vehicles.15K semantic map annotations.<a style="float:left;"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/motion_dataset_lrg_redux.gif" /></a><a style="float:left;"><img width="50%" src="https://github.com/Yansz/3D-Computer-Vision-Research/blob/master/images/motion_dataset_2-1.png" /></a>
 
 27. **[MIT DriveSeg](https://agelab.mit.edu/driveseg)(2020). [`Seg.` `Det.`]**
 
@@ -183,3 +170,5 @@
 
     - DriveSeg (Manual)
     - DriveSeg (Semi-auto)
+
+[Back-HomePage :arrow_heading_up:](https://github.com/Yansz/3D-Computer-Vision-Research#3D-Computer-Vision-Research-city_sunrise) 
